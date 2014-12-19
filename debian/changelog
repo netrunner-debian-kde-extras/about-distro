@@ -1,0 +1,37 @@
+about-distro (1.50+git20140731.1) utopic; urgency=medium
+
+  * Qt5 snapshot
+
+ -- Harald Sitter <apachelogger@kubuntu.org>  Mon, 28 Jul 2014 22:08:33 +0200
+
+about-distro (1.0.1-0ubuntu1) trusty; urgency=medium
+
+  * New upstream release
+  * Dropping upstream_fix-potentially-wrong-ram-calculation.patch and
+    upstream_solid-can-return-empty-processor-list-hide-labels.patch.
+    Both applied upstream.
+
+ -- Harald Sitter <apachelogger@kubuntu.org>  Fri, 28 Feb 2014 11:55:53 +0100
+
+about-distro (1.0.0-0ubuntu2) saucy; urgency=low
+
+  * Add upstream_fix-potentially-wrong-ram-calculation.patch
+    Prevents memory calculation from going wrong on systems where sysinfo
+    uses a memory unit other than 1
+  * Add upstream_solid-can-return-empty-processor-list-hide-labels.patch
+    Prevents empty processor labels to appear when solid returned an empty
+    processor list or the parsing to strings failed terribly
+
+ -- Harald Sitter <apachelogger@kubuntu.org>  Mon, 14 Oct 2013 16:20:29 +0200
+
+about-distro (1.0.0-0ubuntu1) saucy; urgency=low
+
+  * Official upstream 1.0.0 release.
+
+ -- Harald Sitter <apachelogger@kubuntu.org>  Thu, 29 Aug 2013 12:07:13 +0200
+
+about-distro (0.0git20130828-0ubuntu1) saucy; urgency=low
+
+  * Initial release LP: #215383
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 28 Aug 2013 13:35:01 +0100
