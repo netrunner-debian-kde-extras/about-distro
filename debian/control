@@ -7,7 +7,7 @@ Build-Depends: cmake,
                extra-cmake-modules,
                libkf5configwidgets-dev,
                libkf5solid-dev,
-            pkg-kde-tools
+               pkg-kde-tools
 Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/playground/base/about-distro
 
