@@ -1,6 +1,7 @@
 about-distro (2.0.0-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
+  * Add debian/watch
 
  -- Harald Sitter <sitter@kde.org>  Fri, 19 Dec 2014 15:31:35 +0100
 
