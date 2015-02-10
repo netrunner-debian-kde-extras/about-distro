@@ -1,7 +1,8 @@
 Source: about-distro
 Section: kde
 Priority: extra
-Maintainer: Jonathan Riddell <jriddell@ubuntu.com>
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+XSBC-Original-Maintainer: Jonathan Riddell <jriddell@ubuntu.com>
 Build-Depends: cmake,
                debhelper (>= 8.0.0),
                extra-cmake-modules,
