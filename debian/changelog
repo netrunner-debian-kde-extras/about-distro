@@ -1,9 +1,15 @@
-about-distro (2.0.0-0ubuntu1) UNRELEASED; urgency=medium
+about-distro (2.0.1-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release LP: #1420289
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 17 Feb 2015 14:06:04 +0100
+
+about-distro (2.0.0-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
   * Add debian/watch
 
- -- Harald Sitter <sitter@kde.org>  Fri, 19 Dec 2014 15:31:35 +0100
+ -- Harald Sitter <sitter@kde.org>  Mon, 22 Dec 2014 12:32:42 +0100
 
 about-distro (1.50+git20140731.1) utopic; urgency=medium
 
